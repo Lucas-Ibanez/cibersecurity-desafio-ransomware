@@ -1,5 +1,5 @@
-import os
-import pyaes
+import os ## Bibiloteca que nos permite acessar comandos do Sistema Operacional
+import pyaes ## Biblioteca responsável por fazer a criptografia dos dados
 
 ## abrir o arquivo criptografado
 file_name = "teste.txt.ransomwaretroll"
