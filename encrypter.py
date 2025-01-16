@@ -2,7 +2,7 @@ import os ## Bibiloteca que nos permite acessar comandos do Sistema Operacional
 import pyaes ## Biblioteca responsável por fazer a criptografia dos dados
 
 ## abrir o arquivo a ser criptografado
-file_name = "teste.txt" ## Colocamos entre "" o nome do arquivo que desejamos criptografas
+file_name = "teste.txt" ## Colocamos entre "" o nome do arquivo que desejamos criptografar
 file = open(file_name, "rb") ## Vamos abrir esse arquivo com o comando "open" e insinuar que vamos lê-lo, utilizando o "rb" 
 file_data = file.read() # Vamos ler todo o conteúdo do arquivo e salvá-lo na variável correspondente
 file.close() ## Vamos fechar esse arquivo
