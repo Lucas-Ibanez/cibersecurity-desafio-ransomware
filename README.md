@@ -6,8 +6,8 @@ Este projeto consiste em dois scripts em Python: um para criptografar arquivos e
 > **⚠️ Aviso Legal:** Este projeto é estritamente educacional. Não deve ser utilizado para atividades maliciosas ou ilegais. O uso inadequado deste código pode resultar em graves consequências legais.
 
 ## 🛠️ Tecnologias Utilizadas
-- Python 3.x
-- Biblioteca **cryptography**
+- Python
+- Bibliotecas **os** e **pyaes**
 
 ## 📂 Estrutura do Projeto
 ```
